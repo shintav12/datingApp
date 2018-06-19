@@ -1,0 +1,11 @@
+C:\Users\malzamora\Documents\core_amngular\DatingApp.API\bin\Debug\netcoreapp2.0\DatingApp.API.deps.json
+C:\Users\malzamora\Documents\core_amngular\DatingApp.API\bin\Debug\netcoreapp2.0\DatingApp.API.runtimeconfig.json
+C:\Users\malzamora\Documents\core_amngular\DatingApp.API\bin\Debug\netcoreapp2.0\DatingApp.API.runtimeconfig.dev.json
+C:\Users\malzamora\Documents\core_amngular\DatingApp.API\bin\Debug\netcoreapp2.0\DatingApp.API.dll
+C:\Users\malzamora\Documents\core_amngular\DatingApp.API\bin\Debug\netcoreapp2.0\DatingApp.API.pdb
+C:\Users\malzamora\Documents\core_amngular\DatingApp.API\obj\Debug\netcoreapp2.0\DatingApp.API.csprojAssemblyReference.cache
+C:\Users\malzamora\Documents\core_amngular\DatingApp.API\obj\Debug\netcoreapp2.0\DatingApp.API.csproj.CoreCompileInputs.cache
+C:\Users\malzamora\Documents\core_amngular\DatingApp.API\obj\Debug\netcoreapp2.0\DatingApp.API.AssemblyInfoInputs.cache
+C:\Users\malzamora\Documents\core_amngular\DatingApp.API\obj\Debug\netcoreapp2.0\DatingApp.API.AssemblyInfo.cs
+C:\Users\malzamora\Documents\core_amngular\DatingApp.API\obj\Debug\netcoreapp2.0\DatingApp.API.dll
+C:\Users\malzamora\Documents\core_amngular\DatingApp.API\obj\Debug\netcoreapp2.0\DatingApp.API.pdb
